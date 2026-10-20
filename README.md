@@ -35,16 +35,6 @@ This project is under active development. Follow the setup instructions in the e
 4. Expand test coverage and improve error handling.
 5. Explore a dashboard and reproducible deployment workflow.
 
-## Project background and attribution
-
-The initial implementation is based on [Proof to Video](https://github.com/ANRGUSC/proof2video), created by **Bhaskar Krishnamachari**.
-
-This repository is an independent development workspace for learning, extending, and documenting the software. The original implementation should not be mistaken for entirely original authorship by the maintainer. New features and modifications will be documented as they are implemented.
-
 See [`LICENSE`](LICENSE), [`PROVENANCE.md`](PROVENANCE.md), and [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) for licensing, provenance, and third-party notices.
-
-## Current status
-
-Early development. The first milestone is to reproduce the existing example, understand the architecture, and add verified improvements with tests.
 
 
